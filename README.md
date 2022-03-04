@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rishenoy
-- 
 - 👀 I’m interested in Building Websites, Apps
 - 🌱 I’m currently learning Web Developing Languages.
 - 📫 Reach me at golu.shenoy@gmail.com 
